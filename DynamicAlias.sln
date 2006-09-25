@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicAlias", "DynamicAlias.vcproj", "{54630057-7DF6-4E97-855E-95A1F99E8528}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFC_DBTesting", "MFC_DBTesting\MFC_DBTesting.vcproj", "{8B9234E2-1979-4762-B07E-00AC4E66E875}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{54630057-7DF6-4E97-855E-95A1F99E8528}.Debug.ActiveCfg = Debug|Win32
+		{54630057-7DF6-4E97-855E-95A1F99E8528}.Debug.Build.0 = Debug|Win32
+		{54630057-7DF6-4E97-855E-95A1F99E8528}.Release.ActiveCfg = Release|Win32
+		{54630057-7DF6-4E97-855E-95A1F99E8528}.Release.Build.0 = Release|Win32
+		{8B9234E2-1979-4762-B07E-00AC4E66E875}.Debug.ActiveCfg = Debug|Win32
+		{8B9234E2-1979-4762-B07E-00AC4E66E875}.Debug.Build.0 = Debug|Win32
+		{8B9234E2-1979-4762-B07E-00AC4E66E875}.Release.ActiveCfg = Release|Win32
+		{8B9234E2-1979-4762-B07E-00AC4E66E875}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
